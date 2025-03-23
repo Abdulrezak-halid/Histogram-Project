@@ -87,6 +87,11 @@ To run the project, simply execute the main script `histogram.py` in your termin
 
 ```bash
 python histogram.py
+```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
