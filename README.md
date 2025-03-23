@@ -45,3 +45,48 @@ This project takes two images as input and performs the following steps:
 
 The project follows a simple directory structure:
 
+
+---
+
+## Installation Instructions
+
+Follow these steps to set up the project:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Abdulrezak-halid/Histogram-homework.git
+    cd Histogram-homework
+    ```
+
+2. Set up a virtual environment:
+
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate   # For Linux/Mac
+    venv\Scripts\activate      # For Windows
+    ```
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    If you don't have a `requirements.txt`, you can manually install dependencies:
+
+    ```bash
+    pip install opencv-python numpy matplotlib
+    ```
+
+---
+
+## Usage Instructions
+
+To run the project, simply execute the main script `histogram.py` in your terminal. Make sure the images (`my_image1.png` and `my_image2.png`) are in the correct directory (`images/`).
+
+```bash
+python histogram.py
+
+
+
