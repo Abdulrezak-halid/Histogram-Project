@@ -1,4 +1,4 @@
-# Histogram Homework Project
+# Histogram  Project
 
 This project is a Python-based solution that performs various image processing operations, including histogram calculations, contrast enhancement, and image comparison. The goal is to analyze images using histograms and explore techniques such as histogram equalization and CLAHE (Contrast Limited Adaptive Histogram Equalization). It also compares the histograms of two images and visualizes the results.
 
