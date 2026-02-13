@@ -41,11 +41,6 @@ This project takes two images as input and performs the following steps:
 
 ---
 
-## Project Structure
-
-The project follows a simple directory structure:
-
-
 ## Installation Instructions
 
 Follow these steps to set up the project:
