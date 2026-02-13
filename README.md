@@ -8,11 +8,8 @@ This project is a Python-based solution that performs various image processing o
 
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Installation Instructions](#installation-instructions)
 - [Usage Instructions](#usage-instructions)
-- [How to Run the Code](#how-to-run-the-code)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -31,6 +28,9 @@ This project takes two images as input and performs the following steps:
 8. **Histogram Difference Visualization**: Displays the difference in histograms between the two images.
 
 ---
+
+## Screenshots
+https://github.com/Abdulrezak-halid/Histogram-Project/tree/master/src/images
 
 ## Technologies Used
 
