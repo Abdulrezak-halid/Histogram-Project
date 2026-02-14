@@ -30,7 +30,34 @@ This project takes two images as input and performs the following steps:
 ---
 
 ## Screenshots
-https://github.com/Abdulrezak-halid/Histogram-Project/tree/master/src/images
+
+### Original Images
+
+| Image 1 | Image 2 |
+|---------|---------|
+| ![Original Image 1](src/images/Original%20Image%20(Image%201).png) | ![Original Image 2](src/images/Original%20Image%20(Image%202).png) |
+
+### Grayscale Conversion
+
+| Grayscale Image 1 | Grayscale Image 2 |
+|-------------------|-------------------|
+| ![Grayscale Image 1](src/images/Grayscale%20Image%20(Image%201).png) | ![Grayscale Image 2](src/images/Grayscale%20Image%20(Image%202).png) |
+
+### Contrast Enhancement Results
+
+| Equalized Image | CLAHE Image | False Color Image |
+|-----------------|-------------|-------------------|
+| ![Equalized](src/images/Equalized%20Image%20(Image%201).png) | ![CLAHE](src/images/CLAHE%20Image%20(Image%201).png) | ![False Color](src/images/False%20Color%20Image%20(Image%201).png) |
+
+### Histogram Visualizations
+
+| RGB Histogram | Grayscale Histogram |
+|---------------|---------------------|
+| ![RGB Histogram](src/images/Figure_1.png) | ![Grayscale Histogram](src/images/Figure_2.png) |
+
+| CDF Visualization | Histogram Difference |
+|-------------------|---------------------|
+| ![CDF](src/images/Figure_3.png) | ![Histogram Difference](src/images/Figure_4.png) |
 
 ## Technologies Used
 
